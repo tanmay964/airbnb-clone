@@ -1,1 +1,1 @@
-Hosted Link: https://airbnb-clone-jzt2sai2e-tanmay-airbnb.vercel.app/search?location=i&startdate=2021-10-05T06%3A41%3A54.498Z&endDate=2021-10-05T06%3A41%3A54.498Z&noOfGuests=1
+Hosted Link: https://airbnb-clone-jzt2sai2e-tanmay-airbnb.vercel.app
